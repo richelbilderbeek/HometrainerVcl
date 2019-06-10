@@ -1,9 +1,9 @@
 # HometrainerVcl
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov logo](pics/Codecov.png)](https://www.codecov.io)
----|---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/HometrainerVcl.svg?branch=master)](https://travis-ci.org/richelbilderbeek/HometrainerVcl)|[![codecov.io](https://codecov.io/github/richelbilderbeek/HometrainerVcl/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/HometrainerVcl/branch/master)
-develop|[![Build Status](https://travis-ci.org/richelbilderbeek/HometrainerVcl.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/HometrainerVcl)|[![codecov.io](https://codecov.io/github/richelbilderbeek/HometrainerVcl/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/HometrainerVcl/branch/develop)
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/HometrainerVcl.svg?branch=master)](https://travis-ci.org/richelbilderbeek/HometrainerVcl)
+develop|[![Build Status](https://travis-ci.org/richelbilderbeek/HometrainerVcl.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/HometrainerVcl)
 
 Hometrainer is desktop tool to train self-made exercises with open questions 
 and multiple choice questions, with or without images. The exercises are
@@ -45,7 +45,7 @@ The program will show you the image, the question and the (shuffled) answers. Yo
 # Links to similar freeware programs
 
  * [WordFox](http://wordfox.byethost17.com/wordfox/index.php)  
- * [Drill Assistant](http://www.efkasoft.com/drillassistant/drillassistant.html)
- * [Overhoor](http://www.efkasoft.com/overhoor/overhoor.html)
+ * Drill Assistant
+ * Overhoor
  * [Quiz](http://www.luziusschneider.com/QuizHome.htm): for multiple-choice questions only
  * [Questiontools Suite](http://www.questiontools.org/): extensive test generation suite, but commercial for companies
